@@ -13,3 +13,4 @@ This notebook aims to reimplement this model using the PyTorch Lightning framewo
 The notebook has been tested on Google Colab using a free subscription. Make sure that the runtime is set on T4 GPU before running. 
 
 The user is not required to do anything, the code will handle the installation of the necessary libraries and the downloads of the data. If the user is interested in logging the training results on the Weights and Biases platform, they should look for the definition of the `log_wandb` parameter in Section 0.
+![mask_24](https://github.com/user-attachments/assets/985f545b-0867-4fc5-b678-6187942c5302)
