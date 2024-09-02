@@ -13,4 +13,21 @@ This notebook aims to reimplement this model using the PyTorch Lightning framewo
 The notebook has been tested on Google Colab using a free subscription. Make sure that the runtime is set on T4 GPU before running. 
 
 The user is not required to do anything, the code will handle the installation of the necessary libraries and the downloads of the data. If the user is interested in logging the training results on the Weights and Biases platform, they should look for the definition of the `log_wandb` parameter in Section 0.
+
+# Results
+
+The notebook will save the weights of the trained and the finetuned model, as well as the masks generated after the finetuning process. For easy access, they can also be found in [this](https://drive.google.com/drive/folders/1IkqiZmgY8VJyWm1ZDaK6d5-7kIijSxFa?usp=sharing) Google Drive folder.
+
+Below are reported the losses logged during training and finetuning:
+
+###Training Losses:
+
+![](https://drive.google.com/uc?export=view&id=1Wwi8cAlQSyI0mNg9t1LbDHrVfdze9qAC)
+
+![](https://drive.google.com/uc?export=view&id=12g1zjyqBFOSP7uJrYrBdqcjRTZsVWMPV)
+
+![](https://drive.google.com/uc?export=view&id=1luA-iOYR1DwQ48rmXQh1kv4kQu-PVStv)
+
+![](https://drive.google.com/file/d/1luA-iOYR1DwQ48rmXQh1kv4kQu-PVStv/view?usp=drive_link) https://drive.google.com/file/d/1Wwi8cAlQSyI0mNg9t1LbDHrVfdze9qAC/view?usp=drive_link, https://drive.google.com/file/d/1LpMyYycKcox5POFiMiFh13hGQHpeWKhw/view?usp=drive_link, https://drive.google.com/file/d/1EnvsapIX44GS6B2CZwpfONGldOfPS1wc/view?usp=drive_link, https://drive.google.com/file/d/19OLTxxCKzi6dJmF2N6KAJVRMqh228HJq/view?usp=drive_link, https://drive.google.com/file/d/12g1zjyqBFOSP7uJrYrBdqcjRTZsVWMPV/view?usp=drive_link, https://drive.google.com/file/d/10-gS-bLNJjm76DNJjpz5IOyHn2bP_xq5/view?usp=drive_link
+
 ![mask_24](https://github.com/user-attachments/assets/985f545b-0867-4fc5-b678-6187942c5302)
