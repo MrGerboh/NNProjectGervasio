@@ -12,7 +12,7 @@ This notebook aims to reimplement this model using the PyTorch Lightning framewo
 
 The notebook has been tested on Google Colab using a free subscription. Make sure that the runtime is set on T4 GPU before running. 
 
-Since it appears that the *.ipynb* file does not display correctly the images inside, I will leave the link to the Google Colab notebook [here](https://colab.research.google.com/drive/1PgNSfQHqeAwFhQo1M4Pdr4G5RvQ9Kxa0?usp=sharing).
+Since it appears that on Github the *.ipynb* file does not display correctly the images inside, I will leave the link to the Google Colab notebook [here](https://colab.research.google.com/drive/1PgNSfQHqeAwFhQo1M4Pdr4G5RvQ9Kxa0?usp=sharing).
 
 The user is not required to do anything, the code will handle the installation of the necessary libraries and the downloads of the data. If the user is interested in logging the training results on the Weights and Biases platform, they should look for the definition of the `log_wandb` parameter in Section 0.
 
