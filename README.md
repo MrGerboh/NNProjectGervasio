@@ -1,6 +1,6 @@
 # Neural Networks Project - Multi-ConDoS
 
-## Andrea Gervasio, matricola number: 1883259
+### Andrea Gervasio, matricola number: 1883259
 
 Existing self-supervised medical image segmentation usually encounters the domain shift problem and/or the multimodality problem. To tackle these problems, the authors of the [paper](https://ieeexplore.ieee.org/document/10167829) *Multi-ConDoS: Multimodal Contrastive Domain Sharing Generative Adversarial Networks for Self-Supervised Medical Image Segmentation* propose multimodal contrastive domain sharing (Multi-ConDoS) generative adversarial networks. 
 
