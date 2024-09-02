@@ -20,7 +20,7 @@ The notebook will save the weights of the trained and the finetuned model, as we
 
 Below are reported the losses logged during training and finetuning:
 
-###Training Losses:
+### Training Losses:
 
 ![](https://drive.google.com/uc?export=view&id=1Wwi8cAlQSyI0mNg9t1LbDHrVfdze9qAC)
 
@@ -28,6 +28,17 @@ Below are reported the losses logged during training and finetuning:
 
 ![](https://drive.google.com/uc?export=view&id=1luA-iOYR1DwQ48rmXQh1kv4kQu-PVStv)
 
-![](https://drive.google.com/file/d/1luA-iOYR1DwQ48rmXQh1kv4kQu-PVStv/view?usp=drive_link) https://drive.google.com/file/d/1Wwi8cAlQSyI0mNg9t1LbDHrVfdze9qAC/view?usp=drive_link, https://drive.google.com/file/d/1LpMyYycKcox5POFiMiFh13hGQHpeWKhw/view?usp=drive_link, https://drive.google.com/file/d/1EnvsapIX44GS6B2CZwpfONGldOfPS1wc/view?usp=drive_link, https://drive.google.com/file/d/19OLTxxCKzi6dJmF2N6KAJVRMqh228HJq/view?usp=drive_link, https://drive.google.com/file/d/12g1zjyqBFOSP7uJrYrBdqcjRTZsVWMPV/view?usp=drive_link, https://drive.google.com/file/d/10-gS-bLNJjm76DNJjpz5IOyHn2bP_xq5/view?usp=drive_link
+### Finetuning Losses:
+![](https://drive.google.com/uc?export=view&id=10-gS-bLNJjm76DNJjpz5IOyHn2bP_xq5)
+
+![](https://drive.google.com/uc?export=view&id=19OLTxxCKzi6dJmF2N6KAJVRMqh228HJq)
+
+![](https://drive.google.com/uc?export=view&id=1LpMyYycKcox5POFiMiFh13hGQHpeWKhw)
+
+![](https://drive.google.com/uc?export=view&id=1EnvsapIX44GS6B2CZwpfONGldOfPS1wc)
+
+### Generated masks:
+
+An example of a generated mask can be found here
 
 ![mask_24](https://github.com/user-attachments/assets/985f545b-0867-4fc5-b678-6187942c5302)
