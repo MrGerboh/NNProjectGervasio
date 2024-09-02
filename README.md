@@ -7,3 +7,8 @@ The main idea is to fuse CycleGAN and the classic paired image translation model
 sharing generative adversarial networks (DSGANs) also uses some shared layers to learn not only domain-specific but also domain-sharing information.
 
 This notebook aims to reimplement this model using the PyTorch Lightning framework.
+
+# Instructions
+
+The notebook has been tested on Google Colab using a free subscription. Make sure that the runtime is set on T4 GPU before running. \\
+The user is not required to do anything, the code will handle the installation of the necessary libraries and the downloads of the data. If the user is interested in logging the training results on the Weights and Biases platform, they should look for the definition of the `log_wandb` parameter in Section 0.
