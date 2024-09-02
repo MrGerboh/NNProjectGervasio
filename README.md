@@ -39,7 +39,7 @@ Below are reported the losses logged during training and finetuning:
 
 ### Generated masks:
 
-An example of a generated mask can be found here
+Example of generated masks can be found here
 
 ![mask_24](https://github.com/user-attachments/assets/985f545b-0867-4fc5-b678-6187942c5302) ![mask_268](https://github.com/user-attachments/assets/7f98b3ed-a48e-4066-b6bc-900371877007) ![mask_575](https://github.com/user-attachments/assets/c73a01da-661e-49db-a026-49823d9d595f)
 
